@@ -1,0 +1,6 @@
+python-decouple
+groq
+streamlit
+audio-recorder-streamlit
+faster-whisper
+gTTS
